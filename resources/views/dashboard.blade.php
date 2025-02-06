@@ -13,6 +13,7 @@
 <body>
     @include('components.navbar')
     @include('components.banner')
+    @include('components.econtext')
     @yield('content')
     @include('components.footer')
 

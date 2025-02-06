@@ -11,7 +11,7 @@
 
 <body>
     <div id="header ">
-        <div class="bg-amber-50 text-orange-950 py-6 pr-40 pl-40">
+        <div class="bg-gray-400 text-white font-thin text-xl py-6 pr-40 pl-40">
             <div class="container mx-auto flex justify-between items-center">
 
                 <nav class="font-mono">
@@ -23,7 +23,7 @@
                         <li><a href="/journal">Journal </a></li>
                         <li><a href="/contact">Contact </a></li>
                         <li><a href="/booknow"
-                                class="font-extralight border border-amber-950 bg-amber-50 hover:bg-yellow-600 text-orange-950 px-4 py-2 rounded">Book
+                                class="font-mono border border-white bg-black hover:bg-green-700 hover:text-white text-white px-4 py-2 rounded">Book
                                 Now</a></li>
                     </ul>
                 </nav>
