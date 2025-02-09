@@ -18,10 +18,10 @@
         <div class="absolute top-2/3 border border-white p-3 bg-white">
             <img class="h-[20rem] w-[15rem] ml-72" src="{{ asset('images/marshall(21).jpg') }}" alt="">
         </div>
-        <div class="absolute top-2/4 right-[27%] border border-white mr-5 bg-white">
+        <div class="absolute top-2/4 right-[28%] border border-white mr-5 bg-white">
             <img class="h-[20rem] w-[15rem]" src="{{ asset('images/marshall(16).jpg') }}" alt="">
         </div>
-        <div class="absolute -bottom-44  right-[25%]">
+        <div class="absolute -bottom-44  right-[27%]">
             <img class="h-[20rem] w-[15rem]" src="{{ asset('images/marshall(22).jpg') }}" alt="">
         </div>
         <div class="absolute top-2/3 right-[13%] border border-white p-3 bg-white ">
