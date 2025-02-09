@@ -5,7 +5,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>``
+    <title>Marshall Photography</title>
+    <link rel="icon" href="{{ asset('images/LOGO-MP-removebg.png') }}" type="image/png">
     @vite(['resources/css/app.css', 'resources/js/app.js'])
 
     {{-- font  --}}
