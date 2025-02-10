@@ -1,17 +1,17 @@
-<div id="footer">
-    <div class="bg-slate-300 text-orange-950 py-0">
-        <div class="container mx-auto flex justify-between items-center">
+<footer class="bg-[#ffffff] from-gray-800 via-gray-700 to-gray-800 py-3">
+    <div class="container mx-auto px-6">
+        <div class="flex flex-col md:flex-row justify-between items-center">
             <a href="/" class="flex items-center">
-                <img src="{{ asset('images/LOGO-MP-removebg.png') }}" alt="" class="h-28 w-28">
-                <span class=" font-mono">©2025 Marshall-Photographs</span>
+                <img src="{{ asset('images/LOGO-MP-removebg.png') }}" alt="" class="h-10 w-10">
             </a>
-            <ul class="flex space-x-11 text-orange-950 font-mono">All right reserve to Marshall-Photographs</ul>
-            <nav>
-                <ul class="flex space-x-11 text-orange-950 font-mono">
-                    {{-- <li>All right reserve to Marshall-Photographs</li> --}}
-                    <li class="">Designed by calsxshree</li>
-                </ul>
-            </nav>
+            <p class="text-sm">©2025 Marshall-Photographs.</p>
+            <p class="text-sm"> All rights reserved.</p>
+            <p class="text-sm"> Designed by calsxshree</p>
+            <ul class="flex space-x-6 text-sm">
+                <li><a href="/privacy" class="hover:text-teal-400">Privacy Policy</a></li>
+                <li><a href="/terms" class="hover:text-teal-400">Terms of Service</a></li>
+                <li><a href="/contact" class="hover:text-teal-400">Contact</a></li>
+            </ul>
         </div>
     </div>
-</div>
+</footer>

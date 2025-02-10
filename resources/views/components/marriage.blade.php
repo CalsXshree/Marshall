@@ -5,7 +5,7 @@
     </div>
 </div> --}}
 <div>
-    <div class=" relative w-full h-[30rem] overflow-hidden bg-no-repeat bg-cover bg-fixed"
+    <div class=" relative w-full h-[31rem] overflow-hidden bg-no-repeat bg-cover bg-fixed"
         style="background-image: url({{ asset('images/marshall31.jpg') }})">
         {{-- <img src="{{ asset('images/marshall(31).jpg') }}" alt="" class="w-full"> --}}
         <div class="absolute inset-0 bg-white bg-opacity-40 z-10"></div>
@@ -20,7 +20,7 @@
                 <i> Because Your Wedding Photographs Will Become Heirlooms for Generations to Come</i>
             </div>
         </div>
-        <div class="absolute bottom-0  text-center left-[46%]">
+        <div class="absolute bottom-8 text-center left-[45%] ">
             <a href="/inquire" class="bg-black font-normal hover:bg-yellow-200 text-white px-4 py-1">INQUIRE NOW →
 
             </a>

@@ -28,7 +28,8 @@
     <br><br>
     <div class="items-center text-center">
         <a href="/learn">
-            <button class="bg-yellow-200 p-4 font-normal hover:bg-gray-400 hover:text-white ">Learn More About The
+            <button class="bg-yellow-200 text-slate-800 p-4 font-normal hover:bg-gray-400 hover:text-white ">Learn More
+                About The
                 Photograph Experience →
             </button>
         </a>
