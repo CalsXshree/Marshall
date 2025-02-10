@@ -42,7 +42,7 @@
             <div class="swiper-button-prev"></div>
             <div class="swiper-button-next"></div>
         </div>
-        <div class="font-serif text-center p-1 text-xl bg-[#ffffff] text-[#1e1f1b] "">
+        <div class="font-serif text-center p-1 text-xl bg-[#ffffff] text-[#1e1f1b] ">
             <i> "Marshall's ability to
                 capture
                 raw

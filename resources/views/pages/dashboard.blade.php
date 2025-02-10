@@ -7,4 +7,5 @@
     @include('components.seenin')
     @include('components.marriage')
     @include('components.portfolio')
+    @include('components.gaun')
 @endsection
