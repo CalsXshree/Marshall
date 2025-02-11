@@ -1,4 +1,4 @@
-<main class="container mx-auto">
+<div class="container mx-auto">
     <center> <img src="{{ asset('images/LOGO-MP-removebg.png') }}" class="h-[20rem] " alt=""></center>
 
     <h1 class=" text-4xl font-semibold font-serif text-gray-800 ">
@@ -16,4 +16,4 @@
     <center>
         <div class="h-[2px] w-1/3 bg-amber-400 mt-3 z-20 mb-10 ">
     </center>
-</main>
+</div>

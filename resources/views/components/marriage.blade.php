@@ -22,7 +22,6 @@
         </div>
         <div class="absolute bottom-8 text-center left-[45%] ">
             <a href="/inquire" class="bg-black font-normal hover:bg-yellow-200 text-white px-4 py-1">INQUIRE NOW →
-
             </a>
         </div>
     </div>

@@ -7,5 +7,9 @@
     @include('components.seenin')
     @include('components.marriage')
     @include('components.portfolio')
+    @include('components.client')
+    @include('components.socialmedia')
     @include('components.gaun')
+    @include('components.endlogo')
+    @include('components.allpage')
 @endsection
