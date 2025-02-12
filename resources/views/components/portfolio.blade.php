@@ -17,15 +17,15 @@
     <div class="swiper mySwiper max-w-4xl mx-auto mt-8 shadow-lg rounded-lg overflow-hidden">
         <div class="swiper mySwiper">
             <div class="swiper-wrapper">
-                <!-- Slide 1 -->
+
                 <div class="swiper-slide">
                     <img src="{{ asset('images/marshall(34).jpg') }}" alt="Image 1" class="w-full h-auto">
                 </div>
-                <!-- Slide 2 -->
+
                 <div class="swiper-slide">
                     <img src="a{asset('images/marshall(33).jpg')}" alt="Image 2" class="w-full h-auto">
                 </div>
-                <!-- Slide 3 -->
+
                 <div class="swiper-slide">
                     <img src="{{ asset('images/marshall(30).jpg') }}" alt="Image 3" class="w-full h-auto">
                 </div>
@@ -36,9 +36,8 @@
                     <img src="{{ asset('images/marshall(32).jpg') }}" alt="Image 3" class="w-full h-auto">
                 </div>
             </div>
-            <!-- Pagination -->
             <div class="swiper-pagination"></div>
-            <!-- Navigation Buttons -->
+
             <div class="swiper-button-prev"></div>
             <div class="swiper-button-next"></div>
         </div>

@@ -2,9 +2,9 @@
     <div class=" relative w-full h-[33rem] overflow-hidden bg-no-repeat bg-cover bg-fixed mt-20 pb-20 from-teal-950 to-teal-800 shadow-lg"
         style="background-image: url({{ asset('images/marshall13.jpg') }})">
         {{-- <img src="{{ asset('images/marshall(31).jpg') }}" alt="" class="w-full"> --}}
-        <div class="absolute inset-0 bg-blue-100 bg-opacity-25 z-10"></div>
+        <div class="absolute inset-0 bg-blue-100 bg-opacity-30 z-10"></div>
         <div class="w-full h-full grid place-items-center">
-            <div class=" relative text-4xl text-center top-8 text-white font-serif
+            <div class=" relative text-4xl text-center top-8 text-[#ffffff] font-serif
              z-20">
                 <div class="flex">
                     <span class="style-script-regular text-5xl m-0 p-0"> C</span> <i> ustom-crafted moments meet the soul

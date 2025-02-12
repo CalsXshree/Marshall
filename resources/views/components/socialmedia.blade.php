@@ -40,7 +40,7 @@
                     alt="">
             </div>
 
-            <h3 class="text-2xl font-normal ">Should you get first look wedding photos?</h3>
+            <h3 class="text-pretty text-xl font-bold font-normal ">Should you get first look wedding photos?</h3>
 
 
             <div class="uppercase font-thin mt-2 mb-2">View the post</div>
