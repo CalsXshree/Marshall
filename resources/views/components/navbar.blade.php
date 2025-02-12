@@ -8,7 +8,6 @@
     <title>Marshall Photographs</title>
     @vite(['resources/css/app.css', 'resources/js/app.js'])
 </head>
-
 {{-- <body>
     <div id="header ">
         <div class="bg-gray-00 text-cyan-800 font-thin text-xl py-6 pr-40 pl-40 block">
@@ -112,12 +111,6 @@
     </div>
     </div>
 </header>
-
-
 </body>
 
 </html>
-
-
-
->
