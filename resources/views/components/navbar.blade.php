@@ -85,7 +85,7 @@
             </div>
             <nav id="nav-links" class="hidden lg:flex lg:items-center lg:justify-between mt-4 px-24  lg:mt-0">
                 <ul class="flex flex-col lg:flex-row lg:space-x-20 text-lg font-semi">
-                    <li><a href="/home" class="block py-2 hover:text-teal-400">Home</a></li>
+                    <li><a href="/" class="block py-2 hover:text-teal-400">Home</a></li>
                     <li><a href="/about" class="block py-2 hover:text-teal-400">About</a></li>
                     <li><a href="/portfolio" class="block py-2 hover:text-teal-400">Portfolio</a></li>
                     <li><a href="/experience" class="block py-2 hover:text-teal-400">Experience</a></li>

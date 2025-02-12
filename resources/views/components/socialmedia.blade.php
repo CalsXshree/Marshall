@@ -33,6 +33,7 @@
             </div>
         </div>
     </div>
+
     <div class="grid bg-gray-100 items-center">
         <div class="text-center">
             <p class="font-serif uppercase text-center text-lg   mt-[0%]">Latest on the blog</p>
@@ -41,8 +42,6 @@
             </div>
 
             <h3 class="text-pretty text-xl font-bold font-normal ">Should you get first look wedding photos?</h3>
-
-
             <div class="uppercase font-thin mt-2 mb-2">View the post</div>
             <div class="grid">
                 <span class="style-script-regular text-8xl m-0 p-0 text-gray-300"><i> 03 </i></span>
