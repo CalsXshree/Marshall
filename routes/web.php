@@ -16,7 +16,7 @@ Route::view('/portfolio', 'pages.portfolio');
 
 
 Route::get('/dashboard', function () {
-    return view('/pages.dashboard');
+    return view('dashboard');
 })->middleware(['auth', 'verified'])->name('dashboard');
 
 Route::middleware('auth')->group(function () {
