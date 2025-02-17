@@ -4,4 +4,11 @@
     @include('abouts.banner')
     @include('abouts.aboutmarshall')
     @include('abouts.creator')
+    @include('abouts.moments')
+    @include('abouts.commitment')
+    @include('abouts.moments2')
+    @include('abouts.seenin')
+    @include('abouts.allnepal')
+    @include('abouts.experience')
+    @include('abouts.bgview')
 @endsection
