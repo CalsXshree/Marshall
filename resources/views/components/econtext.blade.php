@@ -19,9 +19,9 @@
         is where your
         story becomes art. <br>
         Together, we'll make it unforgettable."</a> <br> --}}
-    <p class="mt-2 text-slate-500 text-xl text-center font-mono">
+    <p class="mt-2 text-slate-500 font-semibold text-xl text-center font-mono">
         At Marshall Photographs, we believe in crafting visual narratives that transcendtime where <br> every
-        frame tells a story as unique as you are.Whether you're celebrating love,<br> family, or a milestone
+        frame tells a story as unique as you are. Whether you're celebrating love,<br> family, or a milestone
         moment, our lens is dedicated to illuminating <br>the beauty of your journey, no matter where you
         are in life's adventure.
     </p>

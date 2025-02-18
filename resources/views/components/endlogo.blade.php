@@ -1,4 +1,4 @@
-<div class="container mx-auto from-teal-800 to-teal-800 shadow-2xl pb-1 ">
+<div class="container mx-auto from-teal-800 to-teal-800 shadow-2xl pb-1 mt-10 ">
     <center> <img src="{{ asset('images/LOGO-MP-removebg.png') }}" class="h-[15rem] " alt=""></center>
     </h1>
     <center>

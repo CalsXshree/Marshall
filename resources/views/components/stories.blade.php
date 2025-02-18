@@ -1,11 +1,11 @@
 <div>
     <div class="relative">
         <img src="{{ asset('images/marshall(5).jpg') }}" class="w-[100%] h-[60%]" alt="">
-        <div class="absolute inset-0 bg-white bg-opacity-20"></div>
+        <div class="absolute inset-0 bg-white bg-opacity-15"></div>
 
         <div class="absolute top-28 left-[8%]">
             <img src="{{ asset('images/marshall(4).jpg') }}" class="h-[24rem] w-[20rem]" alt="">
-            <div class="text-white text-left font-mono pl-1 py-1 ">
+            <div class="text-white text-left font-normal font-mono pl-1 py-1 ">
                 As a travel photographer behind <br>
                 Pokhara Diaries, I live to capture <br>
                 the soul of your adventures where <br>

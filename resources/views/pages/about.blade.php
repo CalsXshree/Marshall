@@ -11,4 +11,10 @@
     @include('abouts.allnepal')
     @include('abouts.experience')
     @include('abouts.bgview')
+    @include('abouts.nepal')
+    @include('abouts.travel')
+    @include('abouts.explore')
+    @include('abouts.yourstory')
+    @include('components.endlogo')
+    @include('components.allpage')
 @endsection
