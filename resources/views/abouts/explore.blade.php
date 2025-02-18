@@ -38,9 +38,7 @@
             </i></p>
         <p class="uppercase text-3xl text-red-600 font-serif  font-semibold ml-3"> <i>Weddings</i></p>
         <h4 class="uppercase font-thin text-lg ml-2">The Details</h4>
-
         <div class=" ml-2 h-[1px] w-2/5 bg-gray-600 mb-10 mt-2"></div>
-
     </div>
 
 </div>
