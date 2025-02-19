@@ -15,10 +15,10 @@
 </div>
 <br><br>
 <div class="relative ">
-    <div class="text-transparent text-red-700 text-center grid grid-cols-3">
-        <div><img class="pb-28 pr-28 pl-32 " src="{{ asset('images/marshall(9).jpg') }}" alt=""></div>
+    <div class="text-transparent text-red-700 text-center flex">
+        <div><img class="pb-32 pr-10 pl-28 " src="{{ asset('images/marshall(9).jpg') }}" alt=""></div>
         <div class="relative ">
-            <img class="h-[100%] w-[100%]" src="{{ asset('images/marshall.jpg') }}" alt="">
+            <img class="h-[100%] w-[114rem]" src="{{ asset('images/marshall.jpg') }}" alt="">
             <div class="absolute inset-0 bg-slate-300 bg-opacity-10 "></div>
             {{-- <div class="absolute text-white"> --}}
             {{-- <div class="absolute inset-0 bg-grleft-1/2 bottom-1/2ay-900 bg-opacity-40 pt-10"></div> --}}
@@ -33,6 +33,7 @@
             </div>
 
         </div>
-        <div><img class="pt-28 px-32" src="{{ asset('images/marshall(8).jpg') }}" alt=""></div>
+        <div><img class="pt-36 pl-12 pr-28 hidden md:block" src="{{ asset('images/marshall(8).jpg') }}" alt="">
+        </div>
     </div>
 </div>
