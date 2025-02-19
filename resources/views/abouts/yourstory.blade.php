@@ -1,6 +1,6 @@
 <div class="bg-gray-300 p-16 mt-24 uppercase grid grid-cols-3">
     <div class=" text-center justify-center">
-        <div class=" text-emerald-950 text-5xl font-serif mt-24">let's
+        <div class=" text-emerald-950 text-5xl font-serif mt-28">let's
             <br> capture
             <br>
             <span class="style-script-regular text-emerald-400 text-5xl m-0 p-0 "> your story</span><br>
