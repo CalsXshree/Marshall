@@ -9,8 +9,7 @@
 <div class="grid grid-cols-3 mx-40 pl-48 pr-36 pb-36 pt-10">
     <div class="relative border-2 border-green-600 w-fit">
         <img class="h-[28rem] w-[20rem]" src="{{ asset('images/marshall(21).jpg') }}" alt="">
-
-        <div class="absolute text-green bottom-0 grid place-items-center">
+        <div class="absolute text-green bottom-0 grid place-items-center ">
             <div class=" bg-white border border-red-500 text-green px-8 py-4 ">
                 <a href="">Destination
                     engagi</a>
@@ -20,7 +19,6 @@
                 {{-- <p class="text-sm absolute">Elegant & Timeless wedding at Chateau de Santeny</p> --}}
             </div>
         </div>
-
     </div>
     <div class="relative"><img class="h-[28rem] w-[20rem]" src="{{ asset('images/marshall(21).jpg') }}" alt="">
 

@@ -4,7 +4,8 @@
 
 
 
-
+@include('portfolios.twopage')
+@include('components.socialmedia')
 @include('abouts.yourstory')
 @include('components.endlogo')
 @include('components.allpage')
