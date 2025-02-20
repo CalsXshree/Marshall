@@ -25,5 +25,8 @@
             </a>
         </button>
     </div>
-
 </div>
+<center>
+    <div class="h-[1px] w-6/6 bg-gray-600 mb-2 mt-20 "></div>
+    <div class="h-[1px] w-6/6 bg-gray-600 mb-2 mt-3 "></div>
+</center>

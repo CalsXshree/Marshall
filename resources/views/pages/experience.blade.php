@@ -4,7 +4,9 @@
 @include('experiences.banner')
 @include('experiences.weddings')
 
-
+@include('experiences.gallries')
+@include('experiences.box')
+@include('experiences.everythingabout')
 @include('components.client')
 
 
