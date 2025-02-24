@@ -10,7 +10,7 @@
     </div>
 </div> --}}
 <div>
-    <div class=" relative w-full h-[33rem] overflow-hidden bg-no-repeat bg-cover bg-fixed mt-20 pb-20 from-teal-950 to-teal-800 shadow-lg "
+    <div class=" relative w-full h-[33rem]  bg-no-repeat bg-cover bg-fixed mt-20 pb-20 from-teal-950 to-teal-800 shadow-lg "
         style="background-image: url({{ asset('images/marshall13.jpg') }})">
         {{-- <img src="{{ asset('images/marshall(31).jpg') }}" alt="" class="w-full"> --}}
         <div class="absolute inset-0 bg-blue-100 bg-opacity-30 z-10"></div>
@@ -47,11 +47,11 @@
             </div>
         </div>
         <div>
-            <img class="z-20 right-[10%] h-[450px] absolute object-cover w-[20rems]  -bottom-[4rem] bg-white p-3"
+            <img class="z-20 right-[10%] h-[450px] absolute object-cover w-[20rems]  -bottom-[4rem] bg-green-100 p-3"
                 src="{{ asset('images/marshall(18).jpg') }}" alt="">
         </div>
         <div>
-            <img class="z-20 right-[35%] h-[450px] absolute object-cover w-[20rems]  -bottom-[4rem] bg-white p-3"
+            <img class="z-20 right-[35%] h-[450px] absolute object-cover w-[20rems]  -bottom-[4rem] bg-green-100 p-3"
                 src="{{ asset('images/marshall(18).jpg') }}" alt="">
         </div>
     </div>

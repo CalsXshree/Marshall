@@ -17,8 +17,6 @@
                     of an <i>extraordinary man</i>."
                 </div>
             </div>
-
         </div>
-
     </div>
 </div>

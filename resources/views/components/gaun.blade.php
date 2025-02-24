@@ -28,7 +28,7 @@
                 </i>
             </div> --}}
             <div class="absolute
-                bottom-14 text-cente z-30">
+                bottom-32 text-cente z-30">
                 <a href="/inquire"
                     class="bg-gray-800 font-normal hover:bg-lime-100 text-white hover:text-black px-10 py-2 uppercase">Learn
                     more about the experience
