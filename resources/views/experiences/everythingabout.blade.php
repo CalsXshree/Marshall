@@ -1,4 +1,4 @@
-<div class=" relative mb-[20rem] right bg-red-100">
+<div class=" relative mb-[20rem] right">
     <div class="flex justify-center items-center font-serif ">
         <div class=" text-5xl ml-12 mr-28">
             <span class="style-script-regular text-6xl"></span> MY WIFE & I LOVED <br>
