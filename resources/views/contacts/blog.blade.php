@@ -40,18 +40,18 @@
                 <div class="absolute
                 bottom-40 text-cente z-30">
                     <a href="/inquire"
-                        class=" font-normal hover:bg-lime-100 text-white hover:text-black px-10 py-2 uppercase">View
+                        class=" font-normal hover:bg-lime-100 text-white hover:text-black px-10 py-2 text-xl uppercase">View
                         the wedding
                     </a>
                 </div>
             </div>
         </div>
         <div>
-            <img class="z-20 right-[10%] h-[450px] absolute object-cover w-[20rems]  -bottom-[4rem] bg-green-100 p-3"
+            <img class="z-20 right-[10%] h-[450px] absolute object-cover w-[20rems]  -bottom-[4rem] bg-white p-3"
                 src="{{ asset('images/marshall(18).jpg') }}" alt="">
         </div>
         <div>
-            <img class="z-20 right-[35%] h-[450px] absolute object-cover w-[20rems]  -bottom-[4rem] bg-green-100 p-3"
+            <img class="z-20 right-[35%] h-[450px] absolute object-cover w-[20rems]  -bottom-[4rem] bg-white p-3"
                 src="{{ asset('images/marshall(18).jpg') }}" alt="">
         </div>
     </div>

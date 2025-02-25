@@ -1,15 +1,3 @@
-<div>
-    <div class="relative ">
-        <center>
-            <div class="h-[1px] w-2/3 bg-black mb-3 z-20 ">
-        </center>
-        <button class="-bottom-3 absolute left-[42%]">
-            <a href="#" class=" text-xl uppercase bg-white text-black px-16 py-3 ">
-                visit portfolio</a>
-        </button>
-    </div>
-</div>
-
 <div class="bg-white p-16 mt-24 uppercase grid grid-cols-2">
     <div class=" ">
         <div class=" text-emerald-950 text-center justify-center text-2xl font-serif mt-2"> <i>let's

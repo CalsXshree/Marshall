@@ -1,4 +1,7 @@
-<div class="bg-gray-300 p-16 uppercase grid grid-cols-3 mt-10">
+<div class="font-mono bg-gray-50 pt-6 pb-6 text-right text-xl pr-48">
+    <a href="#">Older posts ></a>
+</div>
+<div class="bg-gray-300 p-16 uppercase grid grid-cols-3">
     <div class=" text-center justify-center">
         <div class=" text-emerald-950 text-5xl font-serif mt-28">let's
             <br> capture

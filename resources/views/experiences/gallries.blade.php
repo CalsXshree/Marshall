@@ -69,3 +69,14 @@
         </div>
     </div> --}}
 </div>
+<div>
+    <div class="relative ">
+        <center>
+            <div class="h-[1px] w-2/3 bg-black mb-3 z-20 ">
+        </center>
+        <button class="-bottom-3 absolute left-[42%]">
+            <a href="#" class=" text-xl uppercase bg-white text-black px-16 py-3 ">
+                visit portfolio</a>
+        </button>
+    </div>
+</div>

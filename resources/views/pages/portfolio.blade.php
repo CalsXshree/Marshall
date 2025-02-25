@@ -4,7 +4,7 @@
 
 
     @include('portfolios.banner')
-    @include('portfolios.twopage')
+    @include('portfolios.weddings')
     @include('experiences.everythingabout')
     @include('components.socialmedia')
     @include('abouts.yourstory')

@@ -8,5 +8,5 @@
     @include('experiences.question')
     @include('experiences.gallries')
     @include('experiences.everythingabout')
-    @include('abouts.yourstory')
+    @include('experiences.yourstory')
 @endsection

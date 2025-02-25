@@ -2,7 +2,7 @@
     <div class=" flex gap-4">
         <div class="space-y-8 p-4 ">
             <h3 class="flex text-3xl font-serif ">
-                <div>
+                <div class=" text-center">
                     <span>A</span>re you <br>
                     <span class="style-script-regular text-6xl ml-2 p-0">R</span>eady For <br>
                     <span class="style-script-regular text-6xl ml-4 p-0">M</span>ore?

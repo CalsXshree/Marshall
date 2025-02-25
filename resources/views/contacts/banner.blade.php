@@ -46,3 +46,50 @@
     <div class="border border-gray-400 h-[1px] "></div>
     <div class="border border-gray-400 h-[1px] mt-1 "></div>
 </div>
+<div class="text-6xl text-center font-serif uppercase text-gray-300">
+    Weddings
+    <div class="swiper mySwiper">
+        <div class="swiper-wrapper h-[25rem] w-[30rem]">
+            <div class="swiper-slide ">
+                <img src="{{ asset('images/marshall(34).jpg') }}" />
+            </div>
+            <div class="swiper-slide">
+                <img src="{{ asset('images/marshall(32).jpg') }}" />
+            </div>
+            <div class="swiper-slide">
+                <img src="{{ asset('images/marshall31.jpg') }}" />
+            </div>
+            <div class="swiper-slide">
+                <img src="{{ asset('images/marshall30.jpg') }}" />
+            </div>
+            <div class="swiper-slide">
+                <img src="{{ asset('images/marshall(33).jpg') }}" />
+            </div>
+            <div class="swiper-slide">
+                <img src="{{ asset('images/marshall(34).jpg') }}" />
+            </div>
+            <div class="swiper-slide">
+                <img src="{{ asset('images/marshall31.jpg') }}" />
+            </div>
+            <div class="swiper-pagination"></div>
+        </div>
+    </div>
+
+    <script>
+        var swiper = new Swiper(".mySwiper", {
+            effect: "coverflow",
+            grabCursor: true,
+            centeredSlides: true,
+            slidesPerView: "auto",
+            coverflowEffect: {
+                rotate: 50,
+                stretch: 0,
+                depth: 10,
+                modifier: 1,
+                slideShadows: false,
+            },
+            pagination: {
+                // el: ".swiper-pagination",
+            },
+        });
+    </script>
