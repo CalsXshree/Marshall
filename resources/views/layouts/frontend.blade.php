@@ -11,7 +11,9 @@
     <link rel="icon" href="{{ asset('images/LOGO-MP-removebg.png') }}" type="image/png">
     @vite(['resources/css/app.css', 'resources/js/app.js'])
     <script src="{{ mix('js/swiper.js') }}"></script>
-
+    {{-- swiperjs --}}
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
     {{-- font  --}}
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

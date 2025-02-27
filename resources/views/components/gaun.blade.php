@@ -19,7 +19,7 @@
                 <div class="text-xl font-serif text-white mt-10">
                     AND I CAN'T WAIT TO CAPTURE IT.
                     <center>
-                        <div class="h-[2px] w-1/3 bg-black mb-28 z-20 relative ">
+                        <div class="h-[2px] w-1/3 bg-zinc-200 mb-28 z-20 relative ">
                     </center>
                 </div>
             </div>
